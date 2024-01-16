@@ -6,7 +6,7 @@ const THREADS = () => {
         alt=""
         src="/threads-1@2x.png"
       />
-      <form className="m-auto mt-24 rounded-[40px] flex flex-col gap-6 p-8 bg-gray-200 w-[400px] [backdrop-filter:blur(40px)] w-[525px] h-[563px] overflow-hidden">
+      <form className="m-auto mt-24 rounded-[40px] flex flex-col gap-6 p-8 bg-gray-200 w-[400px] [backdrop-filter:blur(40px)] h-[563px] overflow-hidden">
         <b className="text-[16px] font-inter mt-10 text-white text-left">
           Log in with your Instagram account
         </b>
